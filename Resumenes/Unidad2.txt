@@ -1,0 +1,7 @@
+En esta unidad pudimos aprender sobre:
+  - Conceptos basicos para iniciar a programar
+  - Tipos de datos y operadores
+  - Estructuras de control condicionales
+  - Estructuras de control de bucles
+  - Estructuras de control de flujos
+  

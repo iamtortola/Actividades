@@ -1,0 +1,6 @@
+Aprendimos a instalar y utilizar Github
+Ya realizamos 3 ejercicios los cuales los hemos ejecutado desde la Git Bash con código
+el cual crea y hace que los archivos sean subidos a nuestro repositorio en automatico.
+
+Es una excelente plataforma para crear codigo abierto y poder crear, editar y subir nuestras
+actividades.

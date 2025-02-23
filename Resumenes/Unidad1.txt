@@ -1,0 +1,9 @@
+En esta unidad pudimos conocer sobre el sistema binario y la importancia en las computadoras.
+Por ejemplo personalmente pude aprender que las computadoras estan construidas en base a 0 y 1.
+
+Para empezar a programar debemos entender que las computadoras utilizan el sisteam binario para procesar las
+instrucciones que ingresamos en código que nosotros entendemos
+
+Los algoritmos son un conjunto de pasos finitos que se deben seguir para resolver un problema.
+El conjunto de pasos debe tener un orden logico y pueden ser intercambiables siempre y cuando no altere el
+resultado del problema.
